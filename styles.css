@@ -1,0 +1,33 @@
+.square-one{
+    text-align: right;
+    color: #2d6921;
+    border: #d66f0f 3px dotted;
+    width: 500px;
+    padding: 20px;
+    margin-bottom: 100px;
+}
+
+.square-two{
+    font-style: italic;
+    border: blue 3px solid;
+    width: 500px;
+    margin: 0 auto;
+    padding: 50px;
+}
+/*
+Para el cuarto párrafo,
+anchura del 75%,
+borde superior de 3px sólido y color #f0377b.
+*/
+.square-three{
+    width: 30%;
+    border: #666 6px outset;
+    padding: 10px;
+    text-align: justify;
+    line-height: 30px;
+}
+
+.parrafo{
+    width: 75%;
+    border-top: #f0377b 3px solid;
+}
